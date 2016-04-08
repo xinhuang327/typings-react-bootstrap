@@ -1,0 +1,19 @@
+{
+  "name": "typings-react-bootstrap",
+  "version": "1.0.0",
+  "description": "typings for react-bootstrap",
+  "main": "react-bootstrap.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/arolson101/typings-react-bootstrap"
+  },
+  "keywords": [
+    "typings",
+    "react-bootstrap"
+  ],
+  "author": "Andrew Olson <andrew@olsononline.org>",
+  "license": "ISC"
+}
